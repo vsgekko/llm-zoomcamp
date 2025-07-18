@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/vlad_suslov/proga/zoom_camps/llm/.llm_zoom
+set -gx VIRTUAL_ENV /home/vlad_suslov/proga/zoom_camps/llm-zoomcamp/.llm_zoom
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

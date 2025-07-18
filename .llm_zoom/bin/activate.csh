@@ -9,7 +9,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV /home/vlad_suslov/proga/zoom_camps/llm/.llm_zoom
+setenv VIRTUAL_ENV /home/vlad_suslov/proga/zoom_camps/llm-zoomcamp/.llm_zoom
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"

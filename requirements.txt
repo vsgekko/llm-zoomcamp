@@ -1,0 +1,6 @@
+numpy
+pandas
+elasticsearch
+groq
+jupyter
+pydantic
